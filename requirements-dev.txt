@@ -1,0 +1,25 @@
+twine
+m2r
+python-language-server[all]
+black
+flake8
+flake8-annotations
+flake8-deprecated
+flake8-coding
+flake8-breakpoint
+flake8-bugbear
+flake8-builtins
+flake8-comprehensions
+flake8-eradicate
+flake8-if-expr
+flake8-plugin-utils
+flake8-polyfill
+flake8-return
+mypy
+invoke
+coverage
+robotframework-lint
+robotlibcore-temp
+gcg
+importresource-testdata
+-r requirements.txt

@@ -1,0 +1,2 @@
+robotframework>=3.1.0
+robotlibcore-temp
